@@ -1,1 +1,39 @@
-{"name":"LyricsSawan - The Lyrics of Songs","short_name":"LyricsSawan","icons":[{"src":"https://1.bp.blogspot.com/-GQyd-2GSKz4/X05msYsGKDI/AAAAAAAAEMA/SUFr3Rh8acYBBuaN9aRn-NWEplksCGvUwCNcBGAsYHQ/s1600/lyricssawan-icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"https://1.bp.blogspot.com/-35NBtISGxlA/X05msgUlyZI/AAAAAAAAEME/bNahrusQ8Ckq3Nq1NtlJkFjx0qx30wFMQCNcBGAsYHQ/s1600/lyricssawan-icon-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ff0066","background_color":"#ffffff","display":"standalone"}
+{
+
+    "name": "LyricsSawan",
+
+    "short_name": "LyricsSawan",
+
+    "icons": [
+
+        {
+
+            "src": "https://1.bp.blogspot.com/-srpZ0y7pYUc/YBlEfmQaG_I/AAAAAAAAFNA/zAfiYLEHWaQ99tNorzHLEgDMuWnn-bsVwCNcBGAsYHQ/s16000/android-chrome-192x192.png",
+
+            "sizes": "192x192",
+
+            "type": "image/png"
+
+        },
+
+        {
+
+            "src": "https://1.bp.blogspot.com/-iZGjiZXcHws/YBlEfr2g3SI/AAAAAAAAFM8/DH_n5pg7nhUoj8F-nehG4r2g8-6JXXKTACNcBGAsYHQ/s16000/android-chrome-512x512.png",
+
+            "sizes": "512x512",
+
+            "type": "image/png"
+
+        }
+
+    ],
+
+    "theme_color": "#ff0066",
+
+    "background_color": "#ffffff",
+
+    "start_url": "https://lyricssawan.blogspot.com",
+
+    "display": "standalone"
+
+}
