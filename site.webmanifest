@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?source=pwa",
+  "start_url": "https://lyricssawan.blogspot.com/",
   "background_color": "#ff0066",
   "display": "standalone",
   "scope": "/",
@@ -23,14 +23,14 @@
       "name": "Lyrics of Hindi Songs",
       "short_name": "Hindi Songs",
       "description": "Latest Hindi Songs Lyrics",
-      "url": "/search/label/Hindi%20Songs?source=pwa",
+      "url": "https://lyricssawan.blogspot.com/search/label/Hindi%20Songs",
       "icons": [{ "src": "https://1.bp.blogspot.com/-pa0JI6k7XRA/YHMzpyGBDnI/AAAAAAAAGN4/scfRqVWPPXEmE-MAwvZbVEobWZfvg8VtwCNcBGAsYHQ/s16000/LyricsSawan-Hindi-Songs-Lyrics.png", "sizes": "192x192" }]
     },
     {
       "name": "Lyrics of Punjabi Songs",
       "short_name": "Punjabi Songs",
       "description": "Latest Punjabi Songs Lyrics",
-      "url": "/search/label/Punjabi%20Songs?source=pwa",
+      "url": "https://lyricssawan.blogspot.com/search/label/Punjabi%20Songs",
       "icons": [{ "src": "https://1.bp.blogspot.com/-Ndshzj3EuS4/YHMzp_pyNTI/AAAAAAAAGN8/grkqEGf4PlIvFvjHsASnZClzabI1CWOrwCNcBGAsYHQ/s16000/LyricsSawan-Punjabi-Songs-Lyrics.png", "sizes": "192x192" }]
     }
   ],
