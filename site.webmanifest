@@ -1,0 +1,20 @@
+{
+    "name": "LyricsSawan",
+    "short_name": "LyricsSawan",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-1wxIs8yD82c/YM-CWx-GCsI/AAAAAAAAG24/29qULSkfnK4UR_5jM3hBKZfUDBf9wYK7QCNcBGAsYHQ/s16000/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-ddgRaLy6bQ0/YM-CW82-GcI/AAAAAAAAG20/Wzzp8SUNUXQWA8lLNb_bgornHaPF_3gDwCNcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ff0066",
+    "background_color": "#ff0066",
+    "start_url": "https://lyricssawan.blogspot.com",
+    "display": "standalone"
+}
