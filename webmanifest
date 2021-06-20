@@ -1,0 +1,20 @@
+{
+    "name": "LyricsSawan",
+    "short_name": "LyricsSawan - Song Lyrics",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-6Fy-TdmiVDI/YM7ad3oDvTI/AAAAAAAAAJo/Ub7CjLwMUQwRb_8Zc3EU7R5eAihmBwPLgCNcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-wQwmN-PAfLU/YM7aebj3JZI/AAAAAAAAAJw/PUBl2WdHiJwZiCvVAthr8X2lGgYlDjMfQCNcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ff0066",
+    "background_color": "#ff0066",
+    "start_url": "https://www.lyricssawan.com",
+    "display": "standalone"
+}
