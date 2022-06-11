@@ -1,20 +1,23 @@
 {
-    "name": "iLyricsSawan",
+    "name": "iLyricsSawan - Song Lyrics in English",
     "short_name": "iLyricsSawan",
+    "description": "iLyricsSawan is a Lyrics website that provides latest Hindi, Punjabi, Telugu, English and more other songs Lyrics from Movies and Albums.",
     "icons": [
         {
-            "src": "https://1.bp.blogspot.com/-1wxIs8yD82c/YM-CWx-GCsI/AAAAAAAAG24/29qULSkfnK4UR_5jM3hBKZfUDBf9wYK7QCNcBGAsYHQ/s16000/android-chrome-192x192.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihL3XuDoU5pN259vNT8KsQ8mUpi-8T7W0CNAk8PKXAT-qJErIboiur3888d5bmpkn86pkX-EZAC3kIM67nf68-anH1QVTxCNhTrNvCD-I-T3_jlw3cQxZWS-gfKaIcrRqifDPfMSyjt6j6ymT_pVhzP49oPj_UBl-s4uhTU5WARoS4tOVd8TXuHapAHQ/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://1.bp.blogspot.com/-ddgRaLy6bQ0/YM-CW82-GcI/AAAAAAAAG20/Wzzp8SUNUXQWA8lLNb_bgornHaPF_3gDwCNcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6B6L2iRmXQvhhsYHzfUbK-K-pXFAwLnsASBlZnQg9MsD9OKOYDnqSQxBwZxc5kMO-FO-Ph6sM3iW67IaQyZ6k04zwmIVwR5o8fX-K81vtPvc3867DwKQg-umF0TQyBHWtWp8HRoulLPioq-wBeoigFCGQldWMpGPZle3TloCS1ts_HWm4eoff910PhQ/s1600/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ff0066",
-    "background_color": "#ff0066",
+    "theme_color": "#00003c",
+    "background_color": "#00003c",
     "start_url": "https://lyricssawan.blogspot.com",
+    "id": "/",
+	"scope": "/",
     "display": "standalone"
 }
