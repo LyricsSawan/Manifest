@@ -1,7 +1,7 @@
 {
-    "name": "iLyricsSawan - Song Lyrics in English",
-    "short_name": "iLyricsSawan",
-    "description": "iLyricsSawan is a Lyrics website that provides latest Hindi, Punjabi, Telugu, English and more other songs Lyrics from Movies and Albums.",
+    "name": "LyricsSawan",
+    "short_name": "LyricsSawan",
+    "description": "LyricsSawan is a Lyrics website that provides latest Hindi, Punjabi, Telugu, English and more other songs Lyrics from Movies and Albums.",
     "icons": [
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihL3XuDoU5pN259vNT8KsQ8mUpi-8T7W0CNAk8PKXAT-qJErIboiur3888d5bmpkn86pkX-EZAC3kIM67nf68-anH1QVTxCNhTrNvCD-I-T3_jlw3cQxZWS-gfKaIcrRqifDPfMSyjt6j6ymT_pVhzP49oPj_UBl-s4uhTU5WARoS4tOVd8TXuHapAHQ/s1600/android-chrome-192x192.png",
@@ -18,6 +18,6 @@
     "background_color": "#00003c",
     "start_url": "https://lyricssawan.blogspot.com",
     "id": "/",
-	"scope": "/",
+    "scope": "/",
     "display": "standalone"
 }
