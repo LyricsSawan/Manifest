@@ -21,7 +21,7 @@
   ],
   "theme_color": "#00003c",
   "background_color": "#00003c",
-  "start_url": "/?utm_medium=shortcut",
+  "start_url": "/?utm_source=pwa&utm_medium=shortcut",
   "id": "/",
   "scope": "/",
   "display": "standalone",
