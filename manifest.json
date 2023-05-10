@@ -1,7 +1,7 @@
 {
   "name": "LyricsSawan",
   "short_name": "LyricsSawan",
-  "description": "Install LyricsSawan web app for latest Hindi, Punjabi, Telugu and other songs Lyrics with better experience.",
+  "description": "LyricsSawan provides latest Hindi, Punjabi, Telugu and other songs lyrics in English.",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpqdLK2Rk0D64Mtt4_iphW3TCtG-46ORSwCICd-xlnXEX3NfKQAoLERkyKEfZ12Y2IpevprCl0EHRyGuFjy7frTYOckulOFcMs4QeIRDvEuyYFtGKrPRRRu4DGaiAmV4FU1m0HYz_tyvcP0ohzDYCgdDNHyY5NTprOwu7Bs2l6zSX92mBSX4kf4OG6Fg/s1600/android-chrome-96x96.png",
@@ -21,9 +21,9 @@
   ],
   "theme_color": "#00003c",
   "background_color": "#00003c",
-  "start_url": "/?utm_source=pwa&utm_medium=shortcut",
+  "start_url": "https://lyricssawan.blogspot.com",
   "id": "/",
-  "scope": "/",
+  "scope": "https://lyricssawan.blogspot.com",
   "display": "standalone",
   "lang": "en",
   "categories": [
