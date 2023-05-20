@@ -23,7 +23,7 @@
   "background_color": "#00003c",
   "start_url": "https://lyricssawan.blogspot.com",
   "id": "/",
-  "scope": "https://lyricssawan.blogspot.com",
+  "scope": "/",
   "display": "standalone",
   "lang": "en",
   "categories": [
